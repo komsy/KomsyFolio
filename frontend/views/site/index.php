@@ -41,7 +41,7 @@ use yii\bootstrap4\ActiveForm;
                     <div class="col-sm-6 col-md-7">
                       <div class="about-info">
                         <p><span class="title-s">Name: </span> <span>Morris Koome</span></p>
-                        <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
+                        <p><span class="title-s">Profile: </span> <span>Full-stack developer</span></p>
                         <p><span class="title-s">Email: </span> <span>morriskoome.mk@gmail.com</span></p>
                         <p><span class="title-s">Phone: </span> <span> +254704081087</span></p>
                       </div>
@@ -49,19 +49,23 @@ use yii\bootstrap4\ActiveForm;
                   </div>
                   <div class="skill-mf">
                     <p class="title-s">Skill</p>
-                    <span>HTML</span> <span class="pull-right">70%</span>
+                    <span>HTML</span> <span class="pull-right">85%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <span>CSS3</span> <span class="pull-right">65%</span>
+                    <span>CSS3</span> <span class="pull-right">85%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>MySQL</span> <span class="pull-right">80%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <span>PHP</span> <span class="pull-right">60%</span>
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <span>MySQL</span> <span class="pull-right">50%</span>
+                    </div>                   
+                    <span>Javascript</span> <span class="pull-right">50%</span>
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -157,7 +161,7 @@ use yii\bootstrap4\ActiveForm;
                 <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
               </div>
               <div class="counter-num">
-                <p class="counter">3</p>
+                <p class="counter">4</p>
                 <span class="counter-text">WORKS COMPLETED</span>
               </div>
             </div>
@@ -353,10 +357,8 @@ use yii\bootstrap4\ActiveForm;
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                        <li><a href="https://web.facebook.com/morizkonshuns.komz/"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/morris-koome-609918138/"><span class="ico-circle"><i class="ion-social-linkedin-outline"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
@@ -369,6 +371,4 @@ use yii\bootstrap4\ActiveForm;
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-
- 
 
